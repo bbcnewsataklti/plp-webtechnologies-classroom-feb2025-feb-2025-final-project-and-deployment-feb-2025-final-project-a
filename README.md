@@ -1,25 +1,30 @@
 # Final Project and Deployment
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+<<<<<<< HEAD
+# My Responsive Website
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+This is a responsive website built using HTML5, CSS3, and JavaScript.
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+## Pages
 
-## Tasks
+- Home
+- About
+- Contact (includes form validation)
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+## Features
 
-Good luck and happy coding! 🚀💻
+- Responsive design
+- Image slider
+- JavaScript form validation
+
+## Live Site
+
+🔗 https://your-username.github.io/your-repo-name/
+
+## Deployment
+
+Deployed using netlify 
+=======
+https://bejewelled-pavlova-917612.netlify.app/
+
+https://app.netlify.com/sites/bejewelled-pavlova-917612/overview
